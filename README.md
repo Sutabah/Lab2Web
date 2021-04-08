@@ -44,5 +44,6 @@ Yang terakhir adalah menambahkan Css selector pada file Css yang baru saja di bu
 
 Dan hasilnya akan seperti ini
 
-![Menambahkan Css selector_Hasil](https://user-images.githubusercontent.com/81844622/114002620-3a3cc480-9887-11eb-8f47c-ffcc0ac14ca.png)
+![Menambahkan Css selector_Hasil](https://user-images.githubusercontent.com/81844622/114003262-ccdd6380-9887-11eb-9da9-b351060e2a8b.png)
+
 
