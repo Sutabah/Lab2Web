@@ -25,3 +25,24 @@ Selanjutnya adalah menambahkan Inline Css pada tag <p>
 Hasilnya akan seperti ini 
 
 ![Menambahkan Inline Css_Hasil](https://user-images.githubusercontent.com/81844622/114001003-bb935780-9885-11eb-82be-2199be68b671.png)
+
+# Langkah 4
+
+Selanjutnya adalah membuat Css external dengan cara membuat file Css baru, lalu membuat codingan seperti ini
+
+![Style_external css](https://user-images.githubusercontent.com/81844622/114001811-7a4f7780-9886-11eb-97ad-ab9be3798605.png)
+
+setelah itu tambahkan tag <link> untuk menconnectkan file Css ini dengan file html tadi dan jika susah berhasil maka hasilnya akan seperti ini
+
+![Menyisipkan Css_Hasil](https://user-images.githubusercontent.com/81844622/114002174-d74b2d80-9886-11eb-9523-e8500700b5e4.png)
+
+# Langkah 5
+
+Yang terakhir adalah menambahkan Css selector pada file Css yang baru saja di buat dengan codingan seperti ini 
+
+![Menambahkan Css selector](https://user-images.githubusercontent.com/81844622/114002527-25f8c780-9887-11eb-9e99-3b44d6328205.png)
+
+Dan hasilnya akan seperti ini
+
+![Menambahkan Css selector_Hasil](https://user-images.githubusercontent.com/81844622/114002620-3a3cc480-9887-11eb-8f47c-ffcc0ac14ca.png)
+
