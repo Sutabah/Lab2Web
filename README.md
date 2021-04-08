@@ -8,7 +8,7 @@ selanjutnya file html tadi dan hasilnya akan seperti ini jika tidak ada eror tau
 ![Membuat dokumen html_Hasil](https://user-images.githubusercontent.com/81844622/113999623-66a31180-9884-11eb-863b-d6debab12097.png)
  
  # Langkah 2
- Selanjutnya adalah mendeklarasikan Css internal seperti menambahkan padding , text align , font size , hyperlink , warna dan lainnya seperti pada codingan berikut
+ Selanjutnya adalah mendeklarasikan Css internal seperti menambahkan padding , text align , font size , hyperlink , warna dan lainnya 
  
  ![Mendeklarasikan Css internal](https://user-images.githubusercontent.com/81844622/113999961-b97cc900-9884-11eb-8d75-0c8c2e812b71.png)
 
@@ -18,7 +18,7 @@ selanjutnya file html tadi dan hasilnya akan seperti ini jika tidak ada eror tau
 
 # Langkah 3
 
-Selanjutnya adalah menambahkan Inline Css pada tag <p> 
+Selanjutnya adalah menambahkan Inline Css pada tag p
  
 ![Menambahkan Inline Css](https://user-images.githubusercontent.com/81844622/114000925-a6b6c400-9885-11eb-828c-5bf138c4c3ae.png)
 
@@ -28,17 +28,17 @@ Hasilnya akan seperti ini
 
 # Langkah 4
 
-Selanjutnya adalah membuat Css external dengan cara membuat file Css baru, lalu membuat codingan seperti ini
+Selanjutnya adalah membuat Css external dengan cara membuat file Css baru
 
 ![Style_external css](https://user-images.githubusercontent.com/81844622/114001811-7a4f7780-9886-11eb-97ad-ab9be3798605.png)
 
-setelah itu tambahkan tag <link> untuk menconnectkan file Css ini dengan file html tadi dan jika susah berhasil maka hasilnya akan seperti ini
+setelah itu tambahkan tag link untuk menconnectkan file Css ini dengan file html tadi 
 
 ![Menyisipkan Css_Hasil](https://user-images.githubusercontent.com/81844622/114002174-d74b2d80-9886-11eb-9523-e8500700b5e4.png)
 
 # Langkah 5
 
-Yang terakhir adalah menambahkan Css selector pada file Css yang baru saja di buat dengan codingan seperti ini 
+Yang terakhir adalah menambahkan Css selector pada file Css yang baru saja di buat tadi
 
 ![Menambahkan Css selector](https://user-images.githubusercontent.com/81844622/114002527-25f8c780-9887-11eb-9e99-3b44d6328205.png)
 
