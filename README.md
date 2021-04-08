@@ -3,7 +3,7 @@ Buka sublime / Vsc code dan buat File html baru setelah itu buat struktur sepert
 
 ![Membuat dokumen html](https://user-images.githubusercontent.com/81844622/113709234-739cf500-970c-11eb-8a23-fcfb27990e7e.png)
 
-selanjutnya file html tadi dan hasilnya akan seperti ini jika tidak ada eror tau codingan susah sesuai
+selanjutnya simpan file html tadi dan hasilnya akan seperti ini 
 
 ![Membuat dokumen html_Hasil](https://user-images.githubusercontent.com/81844622/113999623-66a31180-9884-11eb-863b-d6debab12097.png)
  
@@ -28,7 +28,7 @@ Hasilnya akan seperti ini
 
 # Langkah 4
 
-Selanjutnya adalah membuat Css external dengan cara membuat file Css baru
+Selanjutnya adalah membuat Css external dengan cara membuat file Css baru, buatlah navigasi background , padding, warna sesuai dengan keinginan dan buatlah semenarik mungkin
 
 ![Style_external css](https://user-images.githubusercontent.com/81844622/114001811-7a4f7780-9886-11eb-97ad-ab9be3798605.png)
 
@@ -38,7 +38,7 @@ setelah itu tambahkan tag link untuk menconnectkan file Css ini dengan file html
 
 # Langkah 5
 
-Yang terakhir adalah menambahkan Css selector pada file Css yang baru saja di buat tadi
+Yang terakhir adalah menambahkan Css selector pada file Css yang baru saja di buat tadi disini kita bisa merapihkan interface dan membuat button
 
 ![Menambahkan Css selector](https://user-images.githubusercontent.com/81844622/114002527-25f8c780-9887-11eb-9e99-3b44d6328205.png)
 
