@@ -46,7 +46,7 @@ Dan hasilnya akan seperti ini
 
 ![Menambahkan Css selector_Hasil](https://user-images.githubusercontent.com/81844622/114003262-ccdd6380-9887-11eb-9da9-b351060e2a8b.png)
 
-Jawaban 
+# Jawaban 
 1.
 
 
@@ -56,3 +56,4 @@ Jawaban
 
 
 3. Deklarasi internal karena sudah menjadi bagiannya dan deklarasi eksternal hanyalah sebagai pendukung
+4. Deklarasi yang akan di tampilkan adalah paragraf ke 1 karena perintah nya text-paragraf-1
