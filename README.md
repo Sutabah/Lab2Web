@@ -46,4 +46,13 @@ Dan hasilnya akan seperti ini
 
 ![Menambahkan Css selector_Hasil](https://user-images.githubusercontent.com/81844622/114003262-ccdd6380-9887-11eb-9da9-b351060e2a8b.png)
 
+Jawaban 
+#1
 
+#2
+
+deklarasi h1 mengubah warna text agar bisa menyatu dengan tag #intro h1 dan #intro h1 membuat bagan kotak agar text bisa terlihat.
+
+#3 
+
+Deklarasi internal karena sudah menjadi bagiannya dan deklarasi eksternal hanyalah sebagai pendukung
